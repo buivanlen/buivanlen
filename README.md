@@ -5,7 +5,7 @@ An ambitious and passionate Information Systems student, focusing on becoming a 
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 **💻 Programming Languages**
 
